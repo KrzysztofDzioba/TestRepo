@@ -1,4 +1,4 @@
-public interface MyInterface extends MySecondInterface {
+public interface MyInterface {
 
     static void createAction() {
         System.out.println("Jestem w metodzie statycznej interfejsu");
