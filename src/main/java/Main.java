@@ -19,6 +19,7 @@ public class Main {
         kl.czesc();
         System.out.println("Czeesc");
         System.out.println();
+        System.out.println();
 
     }
 
