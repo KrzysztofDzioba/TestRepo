@@ -18,6 +18,7 @@ public class Main {
         MyInterface.createAction();
         kl.czesc();
         System.out.println("Czeesc");
+        System.out.println();
 
     }
 
