@@ -17,6 +17,7 @@ public class Main {
         System.out.println(Objects.equals(kl, kll));
         MyInterface.createAction();
         kl.czesc();
+        //
 
 
     }
