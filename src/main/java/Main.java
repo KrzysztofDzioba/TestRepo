@@ -18,9 +18,6 @@ public class Main {
         MyInterface.createAction();
         kl.czesc();
         //
-        //
-
-
     }
 
 }
